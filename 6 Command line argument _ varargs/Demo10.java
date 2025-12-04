@@ -4,7 +4,6 @@ class Demo10{
         System.out.println("No. of arguments : "+var.length);
     }
     public static void main(String...args){
-     
         Demo10 obj = new Demo10();
         obj.test(10,20);
         obj.test(10,20,30);
