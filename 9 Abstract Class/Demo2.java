@@ -1,4 +1,4 @@
-// example showing the concept of method overriding
+// example showing the concept of abstract class
 
 abstract class RBI{
    abstract double rate();
